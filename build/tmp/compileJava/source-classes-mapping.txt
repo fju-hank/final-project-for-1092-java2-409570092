@@ -1,2 +1,16 @@
+com/fju/M5.java
+ com.fju.M5
+com/fju/M2.java
+ com.fju.M2
 com/fju/Tester.java
  com.fju.Tester
+com/fju/M1.java
+ com.fju.M1
+com/fju/M4.java
+ com.fju.M4
+com/fju/Money.java
+ com.fju.Money
+com/fju/M3.java
+ com.fju.M3
+com/fju/Movie.java
+ com.fju.Movie
